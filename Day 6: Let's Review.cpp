@@ -36,7 +36,7 @@ int main() {
             temp2 += str[i];
     }
       
-    //displaying the pitput
+    //displaying the output
     cout<<temp1<<" "<<temp2<<endl;
     }
   
